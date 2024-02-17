@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.gravitana.core.lesson01"},{"l":"ru.gravitana.core.lesson01.services"},{"l":"ru.gravitana.core.lesson01.task1"},{"l":"ru.gravitana.core.lesson01.utils"}];updateSearchResults();
