@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Calculator-Demo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.gravitana.core.lesson01.task1.Program" />
+    <module name="lesson-01" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/ru/gravitana/core/lesson01/task1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
